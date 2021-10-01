@@ -23,7 +23,7 @@ contract Wallet {
         return approvers;
     }
     
-        function getTransfers() external view returns(Transfer[] memory) {
+    function getTransfers() external view returns(Transfer[] memory) {
         return transfers;
     }
     
