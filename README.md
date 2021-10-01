@@ -1,1 +1,1 @@
-# Multisig-Wallet
+# Multisig Wallet on Ethereum
